@@ -8,7 +8,7 @@ https://github.com/Wook22/Pipelife_Analysis/blob/main/Fracta_Coding_Challenge_CH
 
 This project aims to identify weaknesses in water pipe networks, understand the impact of an unplanned failure, and improve the overall reliability of infrastructure to preserve capital.
 
-![](plumbing-g07ffb5782_1280.jpg)
+![](plumbing-g07ffb5782_1280.png)
 
 ## Data Description
 
